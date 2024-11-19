@@ -1,0 +1,161 @@
+header{
+    background-color:black ;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    line-height: 2.5px;
+}
+
+nav li{
+    font-size:20px ;
+     display:inline-block;
+}
+nav ul {
+    text-align:right;
+    word-spacing: 15px;
+}
+
+#ancre1{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.secto1{
+    display: inline-block;
+    background-color: #d3d3d3;
+    color: white;
+    text-align: center; 
+    font-size: 22px;
+    width: 1335px;
+    height:250px ;
+   }
+   #titre{
+    font-size: 50px;
+    font-weight: bold;
+   }
+   img{
+    height: 170px;
+    width: 400px;
+    border-radius: 5px; 
+    
+   }
+   
+   a{
+    color: black;
+    text-decoration: none;
+   }
+   
+   .a{
+    text-align: right;
+    padding-right: 10px;
+    text-decoration: none;
+    align-items: end;
+    text-decoration: none;
+    font-weight: bold;
+   }
+   p{
+    color: gray;
+   }
+   
+   footer{
+    display: block;
+   background-color: black;
+    text-align: center;
+    color: white;
+    width: 300;
+    height: 400;
+    padding-top: 25px;
+    padding-bottom: 25px;
+   }
+   #foo{
+    text-align: center;
+    word-spacing: 2px;
+   }
+   #global{
+    display: flex;
+    justify-content: space-around;
+    
+   
+   }
+   .group1{
+   display: flex; 
+   justify-content: space-around;
+   }
+   .div1{
+    background-color:#F5F5F5;
+    width: 425px;
+    height: 350px;
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-left: 2px;
+    font-size:20px ;
+    line-height: 20px;
+    border-radius: 10px;
+   }
+   .div2{
+    background-color:#F5F5F5;
+    width: 425px;
+    height: 350px;
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-left: 2px;
+    font-size:20px ;
+    line-height: 20px;
+    border-radius: 10px;
+   }
+   
+   #uni{
+    width: 900px;
+    height: 200px; ;
+   }
+   .div3{
+    background-color:#F5F5F5;
+    display: inline-block;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-right:15px ;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    margin-left: 2px;
+    font-size:20px ;
+    line-height: 15px;
+    border-radius: 10px;
+   }
+   .div4{
+    width: 250px;
+    height: 200px;
+    font-size: 20px;
+    line-height: 15px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    background-color: #F5F5F5;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    border-radius: 10px;
+   }
+   .div5{
+    width: 250px;
+    height: 200px;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: #F5F5F5;
+    padding-left: 20px;
+    padding-right: 15px;
+    padding-bottom: 40px;
+     border-radius: 10px;
+    
+   }
+   
+
+   
+    
+   
+   
